@@ -4,8 +4,8 @@
 
   ### Links
 
-  - Solution URL: [https://github.com/](https://github.com/PerfectByPixel/product-preview-card-component)
-  - Live Site URL: [https://perfectbypixel.com/](https://perfectbypixel.github.io/product-preview-card-component/)
+  - Solution URL: [https://github.com/PerfectByPixel/product-preview-card-component](https://github.com/PerfectByPixel/product-preview-card-component)
+  - Live Site URL: [https://perfectbypixel.com](https://perfectbypixel.github.io/product-preview-card-component/)
 
 ## My process
 
